@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575697865627",
+    "project_id": "sellandseller-43e19",
+    "storage_bucket": "sellandseller-43e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575697865627:android:ecf6f5986be0a396dd6f3e",
+        "android_client_info": {
+          "package_name": "com.example.sellandseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575697865627-ae1tqq5s4dsio2rjv8iurobmpgrnnj5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0HLvlb3ZZcTtwcsNLpVtMAPNJwOndhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575697865627-ae1tqq5s4dsio2rjv8iurobmpgrnnj5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
